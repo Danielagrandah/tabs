@@ -2,6 +2,8 @@
 
 A simple project demonstrating basic DOM manipulation and event handling in JavaScript.
 
+🔗 **Repository URL**: [https://github.com/Danielagrandah/tabs](https://github.com/Danielagrandah/tabs)
+
 ## Overview
 
 This project showcases how to create an interactive tabbed interface using HTML, CSS, and vanilla JavaScript.  
