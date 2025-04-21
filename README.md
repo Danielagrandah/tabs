@@ -2,7 +2,7 @@
 
 A simple project demonstrating basic DOM manipulation and event handling in JavaScript.
 
-🔗 **Repository URL**: [https://github.com/Danielagrandah/tabs](https://github.com/Danielagrandah/tabs)
+🔗 **URL**: [https://github.com/Danielagrandah/tabs](https://github.com/Danielagrandah/tabs](https://danielagrandah.github.io/tabs/)
 
 ## Overview
 
